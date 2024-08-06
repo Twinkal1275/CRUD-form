@@ -1,0 +1,66 @@
+body
+{
+  background-color: black;
+}
+form h2
+{
+  margin-top: 10%;
+  margin-left: 13%;
+  font-size: 50px;
+  color: white;
+}
+form input,form textarea
+{
+  width: 76%;
+  margin-left: 12%;
+  padding: 15px 0px;
+}
+form label
+{
+  color: white;
+  font-size: 20px;
+  margin-left: 13%;
+}
+form button
+{
+  padding: 10px 30px;
+  margin-left: 12%;
+  margin-top: 1%;
+} 
+.edittt h1
+{
+  margin-left: 14%;
+  color: white;
+  margin-top: 10%;
+}
+.addd
+{
+  margin-left: 13%;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  background-color: blue;
+  padding: 10px 20px;
+}
+.edittt h2,.edittt p
+{
+  margin-left: 13%;
+  color: white;
+  /* margin-top: 50px; */
+  display: flex;
+}
+.eddd
+{
+  background-color: green;
+  color: white;
+  padding: 10px 40px;
+  text-decoration: none;
+  margin-left: 13%;
+}
+.dee
+{
+  background-color: red;
+  color: white;
+  padding: 10px 40px ;
+  margin-left: 20px;
+}
